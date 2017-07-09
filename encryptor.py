@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 #Program to decrypt and modify the data variables stored
-#Written by Amruthlal M
-#amruth27m AT gmail DOT com
 
 from Crypto.Cipher import ARC4
 from json import  dumps,loads

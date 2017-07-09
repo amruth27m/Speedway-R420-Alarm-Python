@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 #Program to communicate with a koha server using SIP2 protocol
-#Written by Amruthlal M\
-#amruth27m AT gmail DOT com
 
 import socket
 from encryptor import Encryptor

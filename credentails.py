@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 #program to write data to credentials file
-#Written by Amruthlal M
-#amruth27m AT gmail DOT com
 from Crypto.Cipher import ARC4
 from json import dumps
 
