@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #Program to alert the Library about gate events using smtp mail 
 #Written by Amruthlal M
-#amruth27m@gmail.com
+#amruth27m AT gmail DOT com
 import smtplib
 from encryptor import Encryptor
 

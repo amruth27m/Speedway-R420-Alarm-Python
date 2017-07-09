@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #Program to communicate with Speedway Impinj R420 gate reader using LLRP protocol
 #Written by Amruthlal M 
-#amruth27m@gmail.com
+#amruth27m AT gmail DOT com
 
 import socket
 from time import sleep

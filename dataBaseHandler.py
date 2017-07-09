@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #Program to log the gate events to database
 #Written by Amruthlal M
-#amruth27m@gmail.com
+#amruth27m AT gmail DOT com
 import pymysql
 from encryptor import Encryptor
 
