@@ -1,2 +1,5 @@
 # Speedway-R420-Alarm-Python
-Python based alarm controller for controlling the Speedway R420 gate RFID reader for koha database
+Python based alarm controller 
+
+# Description
+Alarm controller for Speedway R420 gate RFID reader and koha database pair.
